@@ -1,3 +1,5 @@
 This is the first file to test with.
 
 Here we do the second edit of the file in question. So far we only have one file.
+
+Time for a third paragraph and commit!
