@@ -2,7 +2,6 @@ This is the first file to test with.
 
 Here we do the second edit of the file in question. So far we only have one file.
 
-Time for a third paragraph and commit!
+Time for a third paragraph and commit and this sentence is changed (much later in the project)!
 
 Fourth time we edit the file, this time from GitHub. Let's see how we get that down to our local clone.
-
